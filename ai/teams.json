@@ -1,0 +1,269 @@
+{
+ "format": 1,
+ "generated_at": "2026-10-25",
+ "game_db_version": 1792548013,
+ "intro": "Squadre consigliate costruite attorno alle carte uscite tra fine agosto e il 20 ottobre 2026, scegliendo tra tutte le carte del gioco (non solo il tuo box). Ogni unità riceve almeno il 180-220% dalla leader skill e le coppie di rotazione condividono 5-7 link. Le carte che non possiedi sono segnate: prova le alternative della scheda Generali con il tuo box.",
+ "teams": [
+  {
+   "id": "potara-2026-10",
+   "title": "Potara: la nuova LR Goku & Vegeta",
+   "kind": "generale",
+   "slots": [
+    1034761,
+    1031391,
+    1030431,
+    1031431,
+    1027221,
+    1027121,
+    1034761
+   ],
+   "new_cards": [
+    1034761
+   ],
+   "strategy": "Squadra tutta LR Potara: la leader skill dà +180% e Ki +3 a ogni unità (amico compreso). La nuova LR INT apre in rotazione 1-2 con SSGSS Goku + Vegeta (5 link) e porta riduzione danni, critici e super attacchi aggiuntivi. In rotazione 4-5 Goku Black Rosé + Zamasu e Fusion Zamasu condividono 5 link e coprono la difesa (parata totale e 40% di riduzione). Goku + Vegeta (Angel) TEQ è il floater più resistente (50% di riduzione). La Super EZA della leader la rende ancora più forte: dalle priorità alle medaglie.",
+   "links_a": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Big Bad Bosses",
+    "Dismal Future",
+    "Fierce Battle",
+    "Legendary Power",
+    "Nightmare"
+   ]
+  },
+  {
+   "id": "fusion-2026-10",
+   "title": "Fusion: Goku & Vegeta (Angel)",
+   "kind": "generale",
+   "slots": [
+    1034741,
+    1022381,
+    1031591,
+    1022421,
+    1031471,
+    1031721,
+    1030481
+   ],
+   "new_cards": [
+    1034741
+   ],
+   "strategy": "Tutte unità Fusion al 180% con Ki +3. In rotazione 1-2 la nuova LR PHY con SSG Goku & Vegeta (5 link, 77% di riduzione dopo l'EZA); in rotazione 4-5 SSJ4 Goku & Vegeta con SSJ4 Gogeta, la coppia più solida con 7 link condivisi. Gohan (Teen) + Trunks & Goten fa da floater e alza l'ATK degli alleati; Golden Frieza + Gogeta copre i turni pericolosi con il 70% di riduzione. Amico consigliato: SSJ Vegeta + Goku (Angel), che dà fino al 220% a tutta la squadra.",
+   "links_a": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "GT",
+    "Kamehameha",
+    "Legendary Power",
+    "Saiyan Roar",
+    "Shocking Speed",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "majin-buu-saga-goku",
+   "title": "Majin Buu Saga: SSJ3 Goku",
+   "kind": "generale",
+   "slots": [
+    1034201,
+    1022381,
+    1033941,
+    1022421,
+    1031471,
+    1033761,
+    1034201
+   ],
+   "new_cards": [
+    1034201
+   ],
+   "strategy": "La nuova LR SSJ3 Goku dà +220% a \"Final Trump Card\" e \"Majin Buu Saga\", due categorie molto ampie: entrano molte LR Saiyan di punta. Rotazione 1-2 con SSG Goku & Vegeta (5 link), rotazione 4-5 SSJ4 Goku & Vegeta + SSJ4 Gogeta (7 link). Turles e Piccolo sono floater difensivi (parata totale, 50-60% di riduzione). SSJ3 Goku ha difese più basse (25%): tienilo in rotazione con unità che parano o fallo entrare quando il nemico ha già attaccato.",
+   "links_a": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "GT",
+    "Kamehameha",
+    "Legendary Power",
+    "Saiyan Roar",
+    "Shocking Speed",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "majin-power-buu-kid",
+   "title": "Majin Power: Buu (Kid)",
+   "kind": "generale",
+   "slots": [
+    1034151,
+    1026431,
+    1034481,
+    1024511,
+    1033971,
+    1034121,
+    1034151
+   ],
+   "new_cards": [
+    1034151
+   ],
+   "strategy": "Buu (Kid) dà +170% a \"Majin Power\", \"Sworn Enemies\" e \"Majin Buu Saga\" e un ulteriore +50% a chi è anche \"Demonic Power\", \"Planetary Destruction\" o \"Resurrected Warriors\": qui tutti arrivano a +220%. Rotazione 1-2 Buu (Kid) + Buu (Super) (5 link, tra cui Majin), rotazione 4-5 Golden Frieza + Frieza (Final Form) (5 link, 90% e 65% di riduzione). Buu (Kid) sopravvive a un colpo letale: è la rete di sicurezza della squadra. SSJ3 Goku (Angel) UR è il floater più difensivo (90% di riduzione).",
+   "links_a": [
+    "Brutal Beatdown",
+    "Fierce Battle",
+    "Infinite Regeneration",
+    "Legendary Power",
+    "Majin"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Legendary Power",
+    "Prodigies",
+    "Strongest Clan in Space",
+    "Universe’s Most Malevolent"
+   ]
+  },
+  {
+   "id": "androids-cell-saga",
+   "title": "Androids/Cell Saga: Perfect Cell",
+   "kind": "generale",
+   "slots": [
+    1034121,
+    1034071,
+    1032071,
+    1024511,
+    1033971,
+    1026431,
+    1034121
+   ],
+   "new_cards": [
+    1034121,
+    1034071
+   ],
+   "strategy": "Perfect Cell dà +220% a \"Sworn Enemies\" e \"Androids/Cell Saga\". Rotazione 1-2 con il nuovo SSJ Gohan (Youth) (3 link, super efficace su tutti i tipi); rotazione 4-5 Golden Frieza + Frieza (Final Form) (5 link). Android #16 UR alza la DEF degli alleati e regge con il 60% di riduzione: mettilo vicino alle unità più fragili. Squadra con molte Extreme: contro i boss Super è particolarmente comoda.",
+   "links_a": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Legendary Power",
+    "Prodigies",
+    "Strongest Clan in Space",
+    "Universe’s Most Malevolent"
+   ]
+  },
+  {
+   "id": "kamehameha-gohan",
+   "title": "Kamehameha: SSJ Gohan (Youth)",
+   "kind": "generale",
+   "slots": [
+    1034071,
+    1024861,
+    1034481,
+    1032551,
+    1022381,
+    1025731,
+    1032261
+   ],
+   "new_cards": [
+    1034071
+   ],
+   "strategy": "Il nuovo Gohan dà +170% a \"Kamehameha\", \"Golden Fighters\" e \"Androids/Cell Saga\" e +50% in più a chi è anche \"Tournament Participants\", \"Mastered Evolution\" o \"Entrusted Will\" (quasi tutti qui arrivano a 220%). Rotazione 1-2 con SSJ Goku TEQ (6 link), rotazione 4-5 SSJ4 Goku (DAIMA) + SSG Goku & Vegeta (5 link); SSJ4 Goku (DAIMA) alza anche l'ATK degli alleati. Amico: SSJ4 Goku (Mini) (DAIMA), che copre tutte e 6 le unità al 220%.",
+   "links_a": [
+    "Fierce Battle",
+    "Golden Warrior",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "planet-namek-goku",
+   "title": "Planet Namek Saga: SSJ Goku",
+   "kind": "generale",
+   "slots": [
+    1034031,
+    1025731,
+    1033971,
+    1034481,
+    1034071,
+    1034461,
+    1034031
+   ],
+   "new_cards": [
+    1034031,
+    1033971
+   ],
+   "strategy": "SSJ Goku AGL dà +220% a \"Golden Fighters\" e \"Planet Namek Saga\". Rotazione 1-2 con SSJ3 Goku & SSJ2 Vegeta (6 link), rotazione 4-5 SSJ3 Goku (Angel) + SSJ Gohan (Youth) (4 link). Il nuovo Frieza (Final Form) è un floater ottimo anche fuori dalla sua squadra (65% di riduzione, super efficace su tutti). Squadra quasi tutta Super: occhio ai boss di classe Extreme.",
+   "links_a": [
+    "Fierce Battle",
+    "Golden Warrior",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Saiyan Warrior Race",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Golden Warrior",
+    "Kamehameha",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "wicked-bloodline-frieza",
+   "title": "Wicked Bloodline: Frieza (Final Form)",
+   "kind": "generale",
+   "slots": [
+    1033971,
+    1024931,
+    1026431,
+    1024511,
+    1031721,
+    1034121,
+    1033971
+   ],
+   "new_cards": [
+    1033971
+   ],
+   "strategy": "Frieza (Final Form) dà +170% a \"Wicked Bloodline\", \"Sworn Enemies\" e \"Planet Namek Saga\", +50% a chi è anche \"Transformation Boost\", \"Terrifying Conquerors\" o \"Successors\": tutti a +220%. Squadra di villain Extreme molto resistente: rotazione 1-2 con Metal Cooler (5 link), rotazione 4-5 Golden Frieza + Golden Frieza & Gogeta (5 link, 90% e 70% di riduzione). Perfect Cell e Buu (Super) come floater. Buona per gli eventi \"Sworn Enemies\".",
+   "links_a": [
+    "Big Bad Bosses",
+    "Fierce Battle",
+    "Legendary Power",
+    "Strongest Clan in Space",
+    "Thirst for Conquest"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Legendary Power",
+    "Prodigies",
+    "Strongest Clan in Space",
+    "Universe’s Most Malevolent"
+   ]
+  }
+ ]
+}
