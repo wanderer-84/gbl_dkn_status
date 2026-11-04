@@ -1,0 +1,9 @@
+{
+ "version_code": 15,
+ "version_name": "0.11.0",
+ "apk": "app/dkn-companion.apk",
+ "size": 12230967,
+ "sha256": "ac995fbdc3386396c30ac0965a3a355e8a4ff53060b595320134120a19a65cfb",
+ "notes": "Squadre create a mano con \"Valuta squadra\" (anche Virtual Dokkan), conferma prima di eliminare, vista a griglia delle carte, ricerca a scomparsa, menu a tendina nelle Squadre, preferenze ricordate e incluse nel backup.",
+ "published_at": "2026-10-28T16:15:12+01:00"
+}

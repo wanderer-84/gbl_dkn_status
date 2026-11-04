@@ -1,0 +1,326 @@
+{
+ "format": 1,
+ "generated_at": "2026-11-03",
+ "game_db_version": 1793599326,
+ "intro": "Squadre consigliate costruite attorno ai leader usciti tra fine agosto e il 29 ottobre 2026 (tra cui i nuovi Great Saiyaman 2 e Hercule), scegliendo tra tutte le carte del gioco (non solo il tuo box) con il motore aggiornato delle squadre generali: ogni unità riceve dal 170% al 220% dalla leader skill e l'amico consigliato è potenziato anche dal tuo leader. Le carte che non possiedi sono segnate: prova le alternative della scheda Generali con il tuo box.",
+ "teams": [
+  {
+   "id": "great-saiyaman-2-2026-10",
+   "title": "Earth-Bred Fighters: il nuovo Great Saiyaman 2",
+   "kind": "generale",
+   "slots": [
+    1034731,
+    1032331,
+    1027581,
+    1032361,
+    1025561,
+    1034461,
+    1034731
+   ],
+   "new_cards": [
+    1034731
+   ],
+   "strategy": "Great Saiyaman 2 dà Ki +3, HP +200% e ATK e DEF +170% a \"Earth-Bred Fighters\" e \"Special Pose\", più un ulteriore 50% a chi è anche \"Earthlings\", \"Movie Heroes\" o \"Peppy Gals\": in questa squadra tutti arrivano a +220%. Il leader apre la rotazione 1-2 con Gamma 2 + Piccolo (3 link, tra cui Hero of Justice e Signature Pose): ha il 65% di riduzione danni e dà Ki agli alleati, quindi tienilo vicino alle unità che devono lanciare il super attacco. In rotazione 4-5 Ultimate Gohan + Gamma 1 (58% di riduzione e parata) e Ultimate Gohan LR condividono 5 link. Pilaf & Shu & Mai è il floater di supporto: alza ATK e DEF degli alleati e sopravvive a un colpo letale. Amico: un altro Great Saiyaman 2.",
+   "links_a": [
+    "Fierce Battle",
+    "Hero of Justice",
+    "Signature Pose"
+   ],
+   "links_b": [
+    "All in the Family",
+    "Fierce Battle",
+    "Infighter",
+    "Saiyan Warrior Race",
+    "Shocking Speed"
+   ]
+  },
+  {
+   "id": "hercule-2026-10",
+   "title": "Earth-Protecting Heroes: il nuovo Hercule",
+   "kind": "generale",
+   "slots": [
+    1034861,
+    1034741,
+    1031471,
+    1034201,
+    1025871,
+    1034461,
+    1030431
+   ],
+   "new_cards": [
+    1034861
+   ],
+   "strategy": "Hercule dà Ki +3, HP +170% e ATK e DEF +140% a \"Earth-Protecting Heroes\", più un ulteriore 30% alle unità di classe Super: qui sono tutte Super e arrivano a +170%. Non è un leader da +220%, ma Hercule stesso è una delle unità più resistenti della squadra (70% di riduzione danni e schivata) e alza l'ATK degli alleati. Con le carte forti della categoria condivide quasi solo Fierce Battle: mettilo in rotazione accanto a chi attacca di più senza badare ai link. La coppia 4-5 SSJ3 Goku + SSJ Goku invece condivide 7 link, e SSJ4 Gogeta (parata e contrattacco) fa da floater. Amico: Goku + Vegeta (Angel) TEQ, che dà almeno il 170% a tutti ed è potenziato a sua volta da Hercule.",
+   "links_a": [
+    "Fierce Battle"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Golden Warrior",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Saiyan Warrior Race",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "potara-2026-10",
+   "title": "Potara: la nuova LR Goku & Vegeta",
+   "kind": "generale",
+   "slots": [
+    1034761,
+    1030431,
+    1031391,
+    1024661,
+    1031431,
+    1032411,
+    1027221
+   ],
+   "new_cards": [
+    1034761
+   ],
+   "strategy": "Squadra tutta Potara: la leader skill dà Ki +3 e HP, ATK e DEF +180% a ogni unità, amico compreso. La nuova LR INT apre in rotazione 1-2 con Goku + Vegeta (Angel) TEQ (6 link): riduzione danni, schivata, critici e super attacchi aggiuntivi, e la Super EZA la rende ancora più forte. In rotazione 4-5 Fusion Zamasu INT e Goku Black Rosé + Zamasu condividono 5 link (Big Bad Bosses, Nightmare, Dismal Future). Floater: SSGSS Goku + Vegeta STR e Supreme Kai (Mini) DAIMA, che con il 50% di riduzione è tra i più resistenti insieme a Goku + Vegeta (Angel). Amico: Fusion Zamasu TEQ, che dà almeno il 200% a tutti e 6.",
+   "links_a": [
+    "Experienced Fighters",
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Big Bad Bosses",
+    "Dismal Future",
+    "Fierce Battle",
+    "Legendary Power",
+    "Nightmare"
+   ]
+  },
+  {
+   "id": "fusion-2026-10",
+   "title": "Fusion: Goku & Vegeta (Angel)",
+   "kind": "generale",
+   "slots": [
+    1034741,
+    1031591,
+    1031721,
+    1031471,
+    1022421,
+    1022381,
+    1030481
+   ],
+   "new_cards": [
+    1034741
+   ],
+   "strategy": "La LR PHY dà Ki +3 e HP, ATK e DEF +180% a tutta la categoria \"Fusion\". Rotazione 1-2 con Gohan (Teen) + Trunks & Goten (Kid) (5 link), che alza anche l'ATK degli alleati. La rotazione 4-5 è la colonna della squadra: SSJ4 Gogeta e SSJ4 Goku & Vegeta condividono 7 link, parano tutto e hanno almeno il 50% di riduzione danni. Floater: Golden Frieza + Gogeta (70% di riduzione) e SSG Goku & Vegeta (77%). Amico: Vegeta (Angel) + Goku (Angel) AGL, che dà il 220% a tutti e 6 e riceve il 180% dal leader: meglio del doppio leader.",
+   "links_a": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "GT",
+    "Kamehameha",
+    "Legendary Power",
+    "Saiyan Roar",
+    "Shocking Speed",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "majin-buu-saga-goku",
+   "title": "Majin Buu Saga: SSJ3 Goku",
+   "kind": "generale",
+   "slots": [
+    1034201,
+    1033061,
+    1034151,
+    1034741,
+    1034761,
+    1031471,
+    1034201
+   ],
+   "new_cards": [
+    1034201
+   ],
+   "strategy": "SSJ3 Goku dà Ki +3 e HP, ATK e DEF +220% a \"Final Trump Card\" e \"Majin Buu Saga\", categorie in cui rientrano anche le due nuove LR Goku & Vegeta: qui giocano insieme in rotazione 4-5 (6 link, entrambe con Super EZA). Rotazione 1-2: SSJ3 Goku con Majin Vegeta + SSJ2 Goku (Angel) (4 link), che para tutto. Floater: Buu (Kid), che sopravvive a un colpo letale, e SSJ4 Gogeta (50% di riduzione, parata e contrattacco). Amico: un altro SSJ3 Goku.",
+   "links_a": [
+    "Fierce Battle",
+    "Legendary Power",
+    "Saiyan Warrior Race",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Experienced Fighters",
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "majin-power-buu-kid",
+   "title": "Majin Power: Buu (Kid)",
+   "kind": "generale",
+   "slots": [
+    1034151,
+    1026431,
+    1033061,
+    1034121,
+    1033971,
+    1033011,
+    1034151
+   ],
+   "new_cards": [
+    1034151
+   ],
+   "strategy": "Buu (Kid) dà Ki +3, HP +200% e ATK e DEF +170% a \"Majin Power\", \"Sworn Enemies\" e \"Majin Buu Saga\", più un ulteriore 50% a chi è anche \"Demonic Power\", \"Planetary Destruction\" o \"Resurrected Warriors\": qui tutti arrivano a +220%. Rotazione 1-2 Buu (Kid) + Buu (Super) (5 link, tra cui Majin e Infinite Regeneration); Buu (Kid) sopravvive a un colpo letale ed è la rete di sicurezza della squadra. Rotazione 4-5 Perfect Cell + Frieza (Final Form) (3 link), con Frieza al 65% di riduzione. Floater: Majin Vegeta + SSJ2 Goku (Angel) e Dabura (contrattacco). Amico: un altro Buu (Kid).",
+   "links_a": [
+    "Brutal Beatdown",
+    "Fierce Battle",
+    "Infinite Regeneration",
+    "Legendary Power",
+    "Majin"
+   ],
+   "links_b": [
+    "Big Bad Bosses",
+    "Fierce Battle",
+    "Legendary Power"
+   ]
+  },
+  {
+   "id": "androids-cell-saga",
+   "title": "Androids/Cell Saga: Perfect Cell",
+   "kind": "generale",
+   "slots": [
+    1034121,
+    1034151,
+    1033971,
+    1032121,
+    1034071,
+    1027001,
+    1034121
+   ],
+   "new_cards": [
+    1034121
+   ],
+   "strategy": "Perfect Cell dà Ki +3 e HP, ATK e DEF +220% a \"Androids/Cell Saga\" e \"Sworn Enemies\", quindi accoglie sia i cattivi sia gli eroi della saga. Rotazione 1-2 con Buu (Kid) (4 link), che sopravvive a un colpo letale. Rotazione 4-5 tutta Saiyan: Gohan (Future)/Trunks (Youth), che alza l'ATK degli alleati, e il nuovo SSJ Gohan (Youth) condividono 5 link. Floater: Frieza (Final Form), il più resistente (65% di riduzione), e SSJ Trunks (Teen) UR. Amico: un altro Perfect Cell.",
+   "links_a": [
+    "Big Bad Bosses",
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power"
+   ],
+   "links_b": [
+    "All in the Family",
+    "Fierce Battle",
+    "Golden Warrior",
+    "Legendary Power",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "kamehameha-gohan",
+   "title": "Kamehameha: SSJ Gohan (Youth)",
+   "kind": "generale",
+   "slots": [
+    1034071,
+    1032121,
+    1034121,
+    1034031,
+    1032551,
+    1033061,
+    1034071
+   ],
+   "new_cards": [
+    1034071
+   ],
+   "strategy": "SSJ Gohan (Youth) dà Ki +3, HP +200% e ATK e DEF +170% a \"Kamehameha\", \"Golden Fighters\" e \"Androids/Cell Saga\", più un ulteriore 50% a chi è anche \"Tournament Participants\", \"Mastered Evolution\" o \"Entrusted Will\": qui tutti arrivano a +220%. Rotazione 1-2 con Gohan (Future)/Trunks (Youth) (5 link), che alza l'ATK degli alleati. Rotazione 4-5 SSJ Goku AGL + SSJ4 Goku (DAIMA) (5 link): il primo ha il 50% di riduzione e schiva, il secondo potenzia l'ATK della squadra. Floater: Perfect Cell e Majin Vegeta + SSJ2 Goku (Angel). Amico: un altro SSJ Gohan (Youth).",
+   "links_a": [
+    "All in the Family",
+    "Fierce Battle",
+    "Golden Warrior",
+    "Legendary Power",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "planet-namek-goku",
+   "title": "Golden Fighters: SSJ Goku",
+   "kind": "generale",
+   "slots": [
+    1034031,
+    1034741,
+    1032121,
+    1033061,
+    1032581,
+    1033971,
+    1034031
+   ],
+   "new_cards": [
+    1034031
+   ],
+   "strategy": "SSJ Goku AGL dà Ki +3 e HP, ATK e DEF +220% a \"Golden Fighters\" e \"Planet Namek Saga\". Apre in rotazione 1-2 con la nuova LR Goku & Vegeta (Angel) (6 link): Goku ha il 50% di riduzione, para e schiva, la fusione porta critici e super attacchi aggiuntivi. Rotazione 4-5 Majin Vegeta + SSJ2 Goku (Angel) con SSJ3 Vegeta (DAIMA) (4 link), che alza la DEF degli alleati. Floater: Gohan (Future)/Trunks (Youth) e Frieza (Final Form), il più resistente (65% di riduzione). Amico: un altro SSJ Goku.",
+   "links_a": [
+    "Fierce Battle",
+    "Golden Warrior",
+    "Kamehameha",
+    "Legendary Power",
+    "Prepared for Battle",
+    "Super Saiyan"
+   ],
+   "links_b": [
+    "Fierce Battle",
+    "Legendary Power",
+    "Royal Lineage",
+    "Super Saiyan"
+   ]
+  },
+  {
+   "id": "wicked-bloodline-frieza",
+   "title": "Wicked Bloodline: Frieza (Final Form)",
+   "kind": "generale",
+   "slots": [
+    1033971,
+    1022751,
+    1034121,
+    1033841,
+    1024931,
+    1034151,
+    1033971
+   ],
+   "new_cards": [
+    1033971
+   ],
+   "strategy": "Frieza (Final Form) dà Ki +3, HP +200% e ATK e DEF +170% a \"Wicked Bloodline\", \"Sworn Enemies\" e \"Planet Namek Saga\", più un ulteriore 50% a chi è anche \"Transformation Boost\", \"Terrifying Conquerors\" o \"Successors\": qui tutti arrivano a +220%. Squadra di cattivi con molti link: rotazione 1-2 Frieza (Final Form) + Frieza (Full Power) (6 link), rotazione 4-5 Metal Cooler Army + Metal Cooler (6 link, tra cui Auto Regeneration). Frieza (Final Form) è il più resistente (65% di riduzione e parata); Metal Cooler Army e Buu (Kid) sopravvivono a un colpo letale. Floater: Perfect Cell e Buu (Kid). Amico: un altro Frieza (Final Form).",
+   "links_a": [
+    "Big Bad Bosses",
+    "Fierce Battle",
+    "Legendary Power",
+    "Prodigies",
+    "Strongest Clan in Space",
+    "Universe’s Most Malevolent"
+   ],
+   "links_b": [
+    "Auto Regeneration",
+    "Big Bad Bosses",
+    "Fierce Battle",
+    "Nightmare",
+    "Strongest Clan in Space",
+    "Thirst for Conquest"
+   ]
+  }
+ ]
+}
