@@ -1,0 +1,34 @@
+{
+ "schema_version": 1,
+ "game_db_version": 1794561759,
+ "game_apk_version": "6.6.5",
+ "source_commit": "4efa4ee16225b97fba2ef70024e7a18775f37297",
+ "source_updated_at": "2026-11-13T16:06:47Z",
+ "built_at": "2026-11-13 21:15:10Z",
+ "pack": {
+  "file": "pack.db.gz",
+  "size": 3520155,
+  "sha256": "f5446307a21d2b1985d61156c5bd88e5e1a6e896140011966c556eeff0ecdd08"
+ },
+ "icons": {
+  "file": "icons.zip",
+  "size": 34304124,
+  "sha256": "176de0c12ebc2353bf5ccf319b28f5ca6b440f13473b3de88daf51ac7720889e",
+  "count": 2588
+ },
+ "counts": {
+  "cards": 4040,
+  "card_specials": 6541,
+  "passive_effects": 25711,
+  "links": 133,
+  "items": 79,
+  "memories": 203,
+  "stages": 3205,
+  "stage_battles": 14234,
+  "enemies": 5439,
+  "missions": 23431,
+  "stage_enemy_stats": 5018,
+  "stage_restrictions": 2490,
+  "stage_banned": 12813
+ }
+}
